@@ -1,0 +1,11 @@
+{
+  "name": "get-oasys-genesis-contract-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lilpacy <revivedtomorrow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "5",
+    "ts-node": "^10.9.1"
+  }
+}

@@ -1,0 +1,228 @@
+{
+	"0x5f6831bda9d0483054eb50a48966d65d2b156c7b": {
+		"name": "CryptoGames Inc.",
+		"icon": "cryptogames_small.png",
+		"image": "cryptogames_big.png",
+		"location": "Tokyo, Japan",
+		"address": "0x5f6831bda9d0483054eb50a48966d65d2b156c7b",
+		"website": "https://cryptogames.co.jp/",
+		"details": "CryptoGames is a blockchain game development company that operates \"\"CryptoSpells\"\".\n\nWe are developing \"\"TCGVerse\"\" on the L2 chain on OASYS. \"\"TCGVerse\"\" is a blockchain specialized for trading card games. Various trading card games will be supported in the future."
+	},
+	"0x86652fE437425AC63211C55b6b067B3181BBcB17": {
+		"name": "MCH Co. Ltd.",
+		"icon": "mch_small.png",
+		"image": "mch_small.png",
+		"location": "Tokyo, Japan",
+		"address": "0x86652fE437425AC63211C55b6b067B3181BBcB17",
+		"website": "https://www.mycryptoheroes.net/ja/home",
+		"details": "MCH Co., Ltd. develops and operates MCH Verse (layer 2 blockchain) and My Crypto Heroes (blockchain game) on Oasys. You can play My Crypto Heroes with four NFTs, Hero, Extension, Soul, and Land, and two cryptocurrencies, MCHC and RAYS. We build the world where your time, money, and passion will become your assets."
+	},
+	"0x025e6bEc8c34dBb38120840610004e8968790b7e": {
+		"name": "Astar",
+		"icon": "astar.png",
+		"image": "astar.png",
+		"location": "Singapore",
+		"address": "0x025e6bEc8c34dBb38120840610004e8968790b7e",
+		"website": "https://astar.network/",
+		"details": "We focus on helping the new generation of Web3 entrepreneurs and being the best bridge between Asia and the rest of the world."
+	},
+	"0x5Ed4f15045aCfDd0392a7A0706503ae1aA2B82dc": {
+		"name": "NEOWIZ",
+		"icon": "neowiz_small.png",
+		"image": "neowiz_big.png",
+		"location": "Seongnam-si, Gyeonggi-do, Republic of Korea",
+		"address": "0x5Ed4f15045aCfDd0392a7A0706503ae1aA2B82dc",
+		"website": "https://www.neowiz.co.kr",
+		"details": "NEOWIZ is a game developer and publisher with a diverse lineup of indie ~ AAA games on PC, console, and mobile platforms. NEOWIZ is pursuing blockchain-based business in earnest by introducing two types of P&E(Play and Earn) games ‘Brave Nine’ and ‘Crypto Golf Impact’ that incorporate blockchain technology. For this NEOWIZ is also preparing its own\nblockchain platform and plans to expand ecosystems such as NFT and the metaverse with various partners."
+	},
+	"0x3C8075380217Eb85d4109226406cACda4c3BdB75": {
+		"name": "Yield Guild Games",
+		"icon": "ygg_big.png",
+		"image": "ygg_big.png",
+		"location": "Metaverse",
+		"address": "0x3C8075380217Eb85d4109226406cACda4c3BdB75",
+		"website": "https://yieldguild.games/",
+		"details": "Yield Guild Games (YGG) is a decentralized gaming guild acquiring yield-generating non-fungible tokens (NFTs) in blockchain games. YGG’s mission \u200B\u200Bis to onboard millions of players around the world to the play-to-earn revolution and bring the benefits of blockchain technology to those who need them the most."
+	},
+	"0x6e28e5af24da4cb7bd669332244271edce95f747": {
+		"name": "Com2uS",
+		"icon": "com2us_small.png",
+		"image": "com2us_big.png",
+		"location": "Seoul",
+		"address": "0x6e28e5AF24dA4Cb7Bd669332244271eDce95f747",
+		"website": "com2us.com",
+		"details": "Global company that spreads joy across the world through innovation and challenges.\n\nIn 1999, Com2uS became the first company to develop and service a mobile game in South Korea.\nCom2uS had been a part of the history of mobile games and continues its challenges for the future with globally respected development, global servicing know-hows, and diversification of business portfolios."
+	},
+	"0x5646b6E8a0856766f0ace6D008f6919ad42Df82c": {
+		"name": "BLRD PTE. LTD",
+		"icon": "gree_blrd_big.png",
+		"image": "gree_blrd_big.png",
+		"location": "Singapore",
+		"address": "0x5646b6E8a0856766f0ace6D008f6919ad42Df82c",
+		"website": "https://blrd.inc/",
+		"details": "We are BLRD.\nBLRD is established in Singapore in 2022 as a web3 company. As part of GREE group, a leading gaming company listed on the Tokyo Stock Exchange. BLRD is creating innovative Play-to-Earn games leveraging its world class talent and 15+ years experience in mobile games and metaverse.\nBLRD is also one of the first investors of Oasys and works closely with them as a validator to help game developers on the decentralized, reliable and fast blockchain for games."
+	},
+	"0x272d6bd040c2B8454f4f6F43115758fBe318ee2c": {
+		"name": "BOBG PTE. LTD.",
+		"icon": "bobg_big.png",
+		"image": "bobg_big.png",
+		"location": "Singapore",
+		"address": "0x272d6bd040c2B8454f4f6F43115758fBe318ee2c",
+		"website": "https://medium.com/@BOBG_PTE_LTD",
+		"details": "BOBG PTE. LTD. is a FT(ERC-20) issuer company in Singapore, for Japanese blockchain game developers. We support CEX listing as well through the management of FT."
+	},
+	"0x3d821c7399ea97dA12e55727A378B4F5eb0289F8": {
+		"name": "gumi Inc.",
+		"icon": "gumi_big.png",
+		"image": "gumi_big.png",
+		"location": "Tokyo",
+		"address": "0x3d821c7399ea97dA12e55727A378B4F5eb0289F8",
+		"website": "",
+		"details": "gumi Inc. is expanding business by developing new content for “unique” technologies such as blockchain and XR, and by investing in leading global companies with growth potential. As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.\nCreating a new business ecosystem through decentralization and capitalization of digital data."
+	},
+	"0xF5100e233E0A5AF82e9C6f3DEdF6Ca2E45099eF8": {
+		"name": "UbiStratLab",
+		"icon": "ubistratlab.png",
+		"image": "ubistratlab.png",
+		"location": "Paris",
+		"address": "0xF5100e233E0A5AF82e9C6f3DEdF6Ca2E45099eF8",
+		"website": "",
+		"details": ""
+	},
+	"0xB441A6A51BF69366d903c072D3B5594Ca02Ff1e0": {
+		"name": "Thirdverse",
+		"icon": "thirdverse.png",
+		"image": "thirdverse.png",
+		"location": "Tokyo, Japan",
+		"address": "0xB441A6A51BF69366d903c072D3B5594Ca02Ff1e0",
+		"website": "https://www.thirdverse.io/ja/",
+		"details": ""
+	},
+	"0xa505014a84e8BdC4A620470A53EAd872b0c1CA5b": {
+		"name": "Wemade",
+		"icon": "wemade 200x200.png",
+		"image": "wemade 500x500.png",
+		"location": "Seoul, South Korea",
+		"address": "0xa505014a84e8BdC4A620470A53EAd872b0c1CA5b",
+		"website": "",
+		"details": ""
+	},
+	"0x4e5E774D3837bd9302B83CAD94a112575411F07B": {
+		"name": "Netmarble",
+		"icon": "netmarble.png",
+		"image": "netmarble.png",
+		"location": "Seoul, South Korea",
+		"address": "0x4e5E774D3837bd9302B83CAD94a112575411F07B",
+		"website": "https://company.netmarble.com/en",
+		"details": "Netmarble Corporation, the #1 online game publisher in Korea, is teaming up with various top development studios to bring quality mobile entertainment to the world."
+	},
+	"0x9b64BE0ec5a334968b37BbD687EaDbc757DA6875": {
+		"name": "Mythical",
+		"icon": "mythical.png",
+		"image": "mythical.png",
+		"location": "Seattle, WA",
+		"address": "0x9b64BE0ec5a334968b37BbD687EaDbc757DA6875",
+		"website": "https://mythicalgames.com",
+		"details": "We are Mythical Games, a next-generation game technology studio at the intersection of blockchain and games"
+	},
+	"0xfcb42091acbef803e333a1b5c7079a43b0cfde59": {
+		"name": "Jump Crypto",
+		"icon": "jumpcrypto.jpg",
+		"image": "jumpcrypto.jpg",
+		"location": "Seattle, WA",
+		"address": "0xfcb42091acbef803e333a1b5c7079a43b0cfde59",
+		"website": "https://jumpcrypto.com",
+		"details": ""
+	},
+	"0xd47620f7904686e1b61bc2b16ad4ef333623c3a4": {
+		"name": "bitFlyer Blockchain, Inc.",
+		"icon": "bitflyer_big.png",
+		"image": "bitflyer_big.png",
+		"location": "Tokyo, Japan",
+		"address": "0xd47620f7904686e1b61bc2b16ad4ef333623c3a4",
+		"website": "https://blockchain.bitflyer.com/",
+		"details": "bitFlyer Blockchain was established in 2019 as a sibling company of bitFlyer, one of the largest crypto asset exchanges in Japan. bitFlyer Blockchain develops and provides its own blockchain \"miyabi\" for commercial use and is also engaged in blockchain consulting business."
+	},
+	"0x324D14607bB6853Fb0E15a02C80D59045714520F": {
+		"name": "Bandai Namco Research",
+		"icon": "bandainamco.png",
+		"image": "bandainamco.png",
+		"location": "Tokyo, Japan",
+		"address": "0x324D14607bB6853Fb0E15a02C80D59045714520F",
+		"website": "https://www.bandainamco-mirai.com/en/",
+		"details": "Bandai Namco Research Inc. is an \"Entertainment Innovation Group\" who has been \"creating new value for Entertainment\". We live in very exciting times where goods and services which once existed only in our imagination have now become a reality thanks to rapid technological advances. Bandai Namco Research Inc. will create and realize \"brand-new and unprecedented PLAY and entertainment\" by proactively co-creating with innovators around the world whilst fully utilizing the expertise in the entertainment that we have built up so far."
+	},
+	"0x80e358cbb533f6c8d07d2dc5604a55aa925a95df": {
+		"name": "double jump.tokyo",
+		"icon": "doublejumptokyo.png",
+		"image": "doublejumptokyo.png",
+		"location": "Tokyo, Japan",
+		"address": "0x80e358cbb533f6c8d07d2dc5604a55aa925a95df",
+		"website": "https://www.doublejump.tokyo/en",
+		"details": "Founded in 2018, double jump.tokyo is the leading startup in Japan that specializes in NFT solutions and developing blockchain games.  The company is a technology solution provider which partners with large-scale enterprises to help them successfully incorporate blockchain technologies into their games and company strategy.  double jump.tokyo has partnered with some of the largest gaming companies, including Square Enix, Bandai Namco, and SEGA."
+	},
+	"0xeC21628Fd017bbB0c751CB14BCbC6b81EB437241": {
+		"name": "SEGA",
+		"icon": "sega.png",
+		"image": "sega.png",
+		"location": "Tokyo, Japan",
+		"address": "0xeC21628Fd017bbB0c751CB14BCbC6b81EB437241",
+		"website": "https://www.sega.co.jp/",
+		"details": "About SEGA CORPORATION SEGA CORPORATION is headquartered in Tokyo, Japan, and is a worldwide leader in interactive entertainment both inside and outside the home. The company develops, publishes, and distributes a variety of games for consoles, PCs, and wireless devices, as well as developing and distributing arcade machines, merchandise, and various other products. Moreover, SEGA distributes a range of gaming content developed by its domestic and overseas studios worldwide via its global publishing bases. SEGA CORPORATION's website is located at https://www.sega.co.jp/",
+		"campaignDescription": "SEGAは8月以降OasysのValidator業務を100%子会社であるSEGA Singaporeに移管する予定です。\nSEGAは世界中に開発スタジオと販売拠点を置き、各地の市場環境に合わせてゲームおよび関連事業を展開するグローバルカンパニーです。SEGA Singaporeは今後大きな成長が見込める東南アジア市場において現地の市場調査やマーケティングを行うのと同時に、SEGAグループのWeb3ビジネスをグローバルに展開していきます。\nSEGA CORPORATION's website is located at https://www.sega.co.jp/\nSEGA Singapore's website is located at https://ssg.sega.com/\n\nSEGA CORPORATION plans to transfer its operation of Oasys' validators to its wholly owned subsidiary SEGA Singapore Pte. Ltd. from August.\nSEGA is a global company that has established development studios and sales bases all over the world, producing games and launching related businesses tailored to local markets. SEGA Singapore will undertake local market research and marketing within the Southeast Asian market, which is expected to grow significantly in future, while simultaneously developing the SEGA Group's Web3 business globally.\nSEGA CORPORATION's website is located at https://www.sega.co.jp/\nSEGA Singapore's website is located at https://ssg.sega.com/\n"
+	},
+	"0x362ee93c00d8bffc1e0284116d7cc9513cde959f": {
+		"name": "NHN Playart",
+		"icon": "nhn.png",
+		"image": "nhn.png",
+		"location": "Tokyo, Japan",
+		"address": "0x362ee93c00d8bffc1e0284116d7cc9513cde959f",
+		"website": "https://www.nhn-playart.com",
+		"details": "NHN PlayArt is a Japanese smartphone game developer. Representative games include \"LINE: Disney Tsum Tsum,\" which has been downloaded 90 million times worldwide, and \"Compass,\" which has achieved 15 million downloads. We will continue to create and develop highly original game apps and provide attractive services that only NHN PlayArt can offer."
+	},
+	"0xaf76f079631ca0f3c090a98a2987b8d232c26447": {
+		"name": "Square Enix",
+		"icon": "square_enix.png",
+		"image": "square_enix.png",
+		"location": "Tokyo, Japan",
+		"address": "0xaf76f079631ca0f3c090a98a2987b8d232c26447",
+		"website": "https://www.square-enix.com/",
+		"details": "Square Enix ​develops, publishes, distributes and licenses high-quality entertainment content including games for console, PC, mobile, web-browser, and amusement facilities around the world. The company is also engaged in comic publishing and merchandising businesses."
+	},
+	"0xaAF5a641256131484D00ACC565D84683025f2444": {
+		"name": "SoftBank",
+		"icon": "softbank.png",
+		"image": "softbank.png",
+		"location": "Tokyo, Japan",
+		"address": "0xaAF5a641256131484D00ACC565D84683025f2444",
+		"website": "https://www.softbank.jp/",
+		"details": ""
+	},
+	"0x18050B80d427B373C96AB24B78996310C0733c13": {
+		"name": "Nexon",
+		"icon": "nexon.png",
+		"image": "nexon.png",
+		"location": "",
+		"address": "0x18050B80d427B373C96AB24B78996310C0733c13",
+		"website": "",
+		"details": "NEXON is an innovative global player that is leading the gaming industry with exceptional technology and a creative mindset."
+	},
+	"0x4e5963c92bFE4De6f319b0859B2Efcf95267E3Ae": {
+		"name": "KDDI",
+		"icon": "kddi.png",
+		"image": "kddi.png",
+		"location": "Tokyo, Japan",
+		"address": "0x4e5963c92bFE4De6f319b0859B2Efcf95267E3Ae",
+		"website": "https://www.kddi.com/",
+		"details": "KDDI is a telecommunication service provider in Japan, offering 5G and IoT services to a multitude of individual and corporate customers within and outside Japan through its “au”, “UQ mobile” and “povo” brands."
+	},
+	"0xe85516cCeBD679fDCfF6Ba69dc45A5caEeEBD21d": {
+		"name": "Oasys Foundation",
+		"icon": "",
+		"image": "",
+		"location": "None",
+		"address": "0xe85516cCeBD679fDCfF6Ba69dc45A5caEeEBD21d",
+		"website": "",
+		"details": ""
+	}
+}
